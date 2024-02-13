@@ -1,0 +1,13 @@
+{
+  "name": "unitag",
+  "version": "1.0.0",
+  "description": "Unitag Contracts",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.2.0",
+    "solc": "^0.8.0",
+    "erc721a": "^4.0.0"
+  }
+}
